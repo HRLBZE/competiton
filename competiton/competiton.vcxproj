@@ -127,12 +127,30 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="bank_account.cpp" />
+    <ClCompile Include="change_change_change.cpp" />
+    <ClCompile Include="FileName.c" />
+    <ClCompile Include="FileName.cpp" />
+    <ClCompile Include="Interesting drink.cpp">
+      <AdditionalIncludeDirectories Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">D:\VS2022\Professional\VC\Tools\MSVC\14.38.33130\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
     <ClCompile Include="IQ test.cpp" />
     <ClCompile Include="Mike and palindrome.cpp" />
     <ClCompile Include="String Task.cpp" />
     <ClCompile Include="Mashmokh and ACM.cpp" />
+    <ClCompile Include="Taxi.cpp" />
+    <ClCompile Include="test1.cpp" />
     <ClCompile Include="Theatre Square.cpp" />
+    <ClCompile Include="Three Activities.cpp" />
     <ClCompile Include="watermelon.cpp" />
+    <ClCompile Include="xiaomage.cpp" />
+    <ClCompile Include="Young Physicist.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="competiton.rc" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

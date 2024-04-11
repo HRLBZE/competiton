@@ -13,25 +13,71 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\finish">
+      <UniqueIdentifier>{1e146b83-5c38-4e41-911a-fa19b938bedb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\unfinish">
+      <UniqueIdentifier>{7dd80b4d-197d-4807-95a8-fcb443533bd9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="watermelon.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="String Task.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="IQ test.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\finish</Filter>
     </ClCompile>
     <ClCompile Include="Mashmokh and ACM.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="Theatre Square.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\finish</Filter>
     </ClCompile>
     <ClCompile Include="Mike and palindrome.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\finish</Filter>
     </ClCompile>
+    <ClCompile Include="String Task.cpp">
+      <Filter>源文件\finish</Filter>
+    </ClCompile>
+    <ClCompile Include="Theatre Square.cpp">
+      <Filter>源文件\finish</Filter>
+    </ClCompile>
+    <ClCompile Include="watermelon.cpp">
+      <Filter>源文件\finish</Filter>
+    </ClCompile>
+    <ClCompile Include="Young Physicist.cpp">
+      <Filter>源文件\finish</Filter>
+    </ClCompile>
+    <ClCompile Include="Three Activities.cpp">
+      <Filter>源文件\unfinish</Filter>
+    </ClCompile>
+    <ClCompile Include="Taxi.cpp">
+      <Filter>源文件\finish</Filter>
+    </ClCompile>
+    <ClCompile Include="Interesting drink.cpp">
+      <Filter>源文件\finish</Filter>
+    </ClCompile>
+    <ClCompile Include="FileName.c">
+      <Filter>源文件\finish</Filter>
+    </ClCompile>
+    <ClCompile Include="FileName.cpp">
+      <Filter>源文件\finish</Filter>
+    </ClCompile>
+    <ClCompile Include="test1.cpp">
+      <Filter>源文件\finish</Filter>
+    </ClCompile>
+    <ClCompile Include="xiaomage.cpp">
+      <Filter>源文件\finish</Filter>
+    </ClCompile>
+    <ClCompile Include="change_change_change.cpp">
+      <Filter>源文件\finish</Filter>
+    </ClCompile>
+    <ClCompile Include="bank_account.cpp">
+      <Filter>源文件\finish</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="competiton.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
   </ItemGroup>
 </Project>
