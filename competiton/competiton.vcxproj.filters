@@ -69,6 +69,9 @@
     <ClCompile Include="bank_account.cpp">
       <Filter>源文件\finish</Filter>
     </ClCompile>
+    <ClCompile Include="Intercept_criminals.cpp">
+      <Filter>源文件\finish</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">
