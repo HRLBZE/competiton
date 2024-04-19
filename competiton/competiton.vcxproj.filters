@@ -19,6 +19,9 @@
     <Filter Include="源文件\unfinish">
       <UniqueIdentifier>{7dd80b4d-197d-4807-95a8-fcb443533bd9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\konw_but_don%27t_konw_clear">
+      <UniqueIdentifier>{b5a6738e-beab-4981-8934-32d2897e3b1e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="IQ test.cpp">
@@ -70,6 +73,15 @@
       <Filter>源文件\finish</Filter>
     </ClCompile>
     <ClCompile Include="Intercept_criminals.cpp">
+      <Filter>源文件\finish</Filter>
+    </ClCompile>
+    <ClCompile Include="Leonardo_Fibonacci_but_string.cpp">
+      <Filter>源文件\konw_but_don%27t_konw_clear</Filter>
+    </ClCompile>
+    <ClCompile Include="Array Fix.cpp">
+      <Filter>源文件\konw_but_don%27t_konw_clear</Filter>
+    </ClCompile>
+    <ClCompile Include="Product of Binary Decimals.cpp">
       <Filter>源文件\finish</Filter>
     </ClCompile>
   </ItemGroup>

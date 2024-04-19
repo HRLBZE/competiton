@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Array Fix.cpp" />
     <ClCompile Include="bank_account.cpp" />
     <ClCompile Include="change_change_change.cpp" />
     <ClCompile Include="FileName.c" />
@@ -136,7 +137,9 @@
       <AdditionalIncludeDirectories Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">D:\VS2022\Professional\VC\Tools\MSVC\14.38.33130\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <ClCompile Include="IQ test.cpp" />
+    <ClCompile Include="Leonardo_Fibonacci_but_string.cpp" />
     <ClCompile Include="Mike and palindrome.cpp" />
+    <ClCompile Include="Product of Binary Decimals.cpp" />
     <ClCompile Include="String Task.cpp" />
     <ClCompile Include="Mashmokh and ACM.cpp" />
     <ClCompile Include="Taxi.cpp" />
