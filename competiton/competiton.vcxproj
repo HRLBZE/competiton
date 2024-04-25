@@ -128,10 +128,16 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Array Fix.cpp" />
+    <ClCompile Include="B. Chaya Calendar.cpp" />
+    <ClCompile Include="B. Progressive Square.cpp" />
+    <ClCompile Include="B. Rudolf and 121.cpp" />
+    <ClCompile Include="B._Maximum_Sum.cpp" />
     <ClCompile Include="bank_account.cpp" />
+    <ClCompile Include="big_problem.cpp" />
     <ClCompile Include="change_change_change.cpp" />
     <ClCompile Include="FileName.c" />
     <ClCompile Include="FileName.cpp" />
+    <ClCompile Include="find_word_in_geci.cpp" />
     <ClCompile Include="Intercept_criminals.cpp" />
     <ClCompile Include="Interesting drink.cpp">
       <AdditionalIncludeDirectories Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">D:\VS2022\Professional\VC\Tools\MSVC\14.38.33130\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
