@@ -102,6 +102,15 @@
     <ClCompile Include="B. Rudolf and 121.cpp">
       <Filter>源文件\finish</Filter>
     </ClCompile>
+    <ClCompile Include="coin_tower.cpp">
+      <Filter>源文件\finish</Filter>
+    </ClCompile>
+    <ClCompile Include="red and blue.cpp">
+      <Filter>源文件\finish</Filter>
+    </ClCompile>
+    <ClCompile Include="Zhnegfang_card.cpp">
+      <Filter>源文件\finish</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">

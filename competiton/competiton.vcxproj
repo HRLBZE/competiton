@@ -135,6 +135,7 @@
     <ClCompile Include="bank_account.cpp" />
     <ClCompile Include="big_problem.cpp" />
     <ClCompile Include="change_change_change.cpp" />
+    <ClCompile Include="coin_tower.cpp" />
     <ClCompile Include="FileName.c" />
     <ClCompile Include="FileName.cpp" />
     <ClCompile Include="find_word_in_geci.cpp" />
@@ -146,6 +147,7 @@
     <ClCompile Include="Leonardo_Fibonacci_but_string.cpp" />
     <ClCompile Include="Mike and palindrome.cpp" />
     <ClCompile Include="Product of Binary Decimals.cpp" />
+    <ClCompile Include="red and blue.cpp" />
     <ClCompile Include="String Task.cpp" />
     <ClCompile Include="Mashmokh and ACM.cpp" />
     <ClCompile Include="Taxi.cpp" />
@@ -155,6 +157,7 @@
     <ClCompile Include="watermelon.cpp" />
     <ClCompile Include="xiaomage.cpp" />
     <ClCompile Include="Young Physicist.cpp" />
+    <ClCompile Include="Zhnegfang_card.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h" />
