@@ -22,6 +22,15 @@
     <Filter Include="源文件\konw_but_don%27t_konw_clear">
       <UniqueIdentifier>{b5a6738e-beab-4981-8934-32d2897e3b1e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\WZ">
+      <UniqueIdentifier>{f1f57673-b67b-4eed-b622-e38c3ba311c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\WZ\lab1">
+      <UniqueIdentifier>{d43ebe2e-6c67-4b26-ac4b-1b41535bcfdb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\WZ\lab2">
+      <UniqueIdentifier>{80cc9dd8-322a-4626-a995-7f12e847dfa6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="IQ test.cpp">
@@ -109,6 +118,45 @@
       <Filter>源文件\finish</Filter>
     </ClCompile>
     <ClCompile Include="Zhnegfang_card.cpp">
+      <Filter>源文件\finish</Filter>
+    </ClCompile>
+    <ClCompile Include="C. Choose the Different Ones!.cpp">
+      <Filter>源文件\unfinish</Filter>
+    </ClCompile>
+    <ClCompile Include="Climb_the_stairs.cpp">
+      <Filter>源文件\WZ\lab1</Filter>
+    </ClCompile>
+    <ClCompile Include="nixudui.cpp">
+      <Filter>源文件\WZ\lab1</Filter>
+    </ClCompile>
+    <ClCompile Include="max_zishu_sum.cpp">
+      <Filter>源文件\WZ\lab1</Filter>
+    </ClCompile>
+    <ClCompile Include="最长上升子序列.cpp">
+      <Filter>源文件\WZ\lab2</Filter>
+    </ClCompile>
+    <ClCompile Include="数字三角形.cpp">
+      <Filter>源文件\WZ\lab2</Filter>
+    </ClCompile>
+    <ClCompile Include="背包问题.cpp">
+      <Filter>源文件\WZ\lab2</Filter>
+    </ClCompile>
+    <ClCompile Include="矩阵01变.cpp">
+      <Filter>源文件\finish</Filter>
+    </ClCompile>
+    <ClCompile Include="运动会进行中.cpp">
+      <Filter>源文件\finish</Filter>
+    </ClCompile>
+    <ClCompile Include="二阶前缀合、.cpp">
+      <Filter>源文件\finish</Filter>
+    </ClCompile>
+    <ClCompile Include="门票.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="区间修改.cpp">
+      <Filter>源文件\finish</Filter>
+    </ClCompile>
+    <ClCompile Include="相对马高.cpp">
       <Filter>源文件\finish</Filter>
     </ClCompile>
   </ItemGroup>

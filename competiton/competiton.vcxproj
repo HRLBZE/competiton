@@ -134,7 +134,9 @@
     <ClCompile Include="B._Maximum_Sum.cpp" />
     <ClCompile Include="bank_account.cpp" />
     <ClCompile Include="big_problem.cpp" />
+    <ClCompile Include="C. Choose the Different Ones!.cpp" />
     <ClCompile Include="change_change_change.cpp" />
+    <ClCompile Include="Climb_the_stairs.cpp" />
     <ClCompile Include="coin_tower.cpp" />
     <ClCompile Include="FileName.c" />
     <ClCompile Include="FileName.cpp" />
@@ -145,7 +147,9 @@
     </ClCompile>
     <ClCompile Include="IQ test.cpp" />
     <ClCompile Include="Leonardo_Fibonacci_but_string.cpp" />
+    <ClCompile Include="max_zishu_sum.cpp" />
     <ClCompile Include="Mike and palindrome.cpp" />
+    <ClCompile Include="nixudui.cpp" />
     <ClCompile Include="Product of Binary Decimals.cpp" />
     <ClCompile Include="red and blue.cpp" />
     <ClCompile Include="String Task.cpp" />
@@ -158,6 +162,15 @@
     <ClCompile Include="xiaomage.cpp" />
     <ClCompile Include="Young Physicist.cpp" />
     <ClCompile Include="Zhnegfang_card.cpp" />
+    <ClCompile Include="二阶前缀合、.cpp" />
+    <ClCompile Include="区间修改.cpp" />
+    <ClCompile Include="数字三角形.cpp" />
+    <ClCompile Include="最长上升子序列.cpp" />
+    <ClCompile Include="相对马高.cpp" />
+    <ClCompile Include="矩阵01变.cpp" />
+    <ClCompile Include="背包问题.cpp" />
+    <ClCompile Include="运动会进行中.cpp" />
+    <ClCompile Include="门票.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h" />
